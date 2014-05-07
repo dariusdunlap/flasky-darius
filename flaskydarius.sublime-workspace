@@ -1,0 +1,230 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dariusdunlap/Desktop/IndieBox/jernst2",
+		"/Users/dariusdunlap/Desktop/IndieBox/jesrnst1",
+		"/Users/dariusdunlap/Dropbox/Writing/NotesAndQuotes/VoiceNoteTranscriptions/Keyword Themes - 2014-04-05 -",
+		"/Users/dariusdunlap/Dropbox/Writing/NotesAndQuotes/VoiceNoteTranscriptions/Matrix - 2014-04-05 -",
+		"/Users/dariusdunlap/Dropbox/Writing/NotesAndQuotes/VoiceNoteTranscriptions/Budget for Testing - 2014-04-05 -",
+		"/Users/dariusdunlap/Dropbox/Writing/NotesAndQuotes/VoiceNoteTranscriptions/Longer-Term - 2014-04-05 -",
+		"/Users/dariusdunlap/Dropbox/Writing/NotesAndQuotes/VoiceNoteTranscriptions/Projects - Where is all the stuff - 2014-04-05 -",
+		"/Users/dariusdunlap/Dropbox/Writing/NotesAndQuotes/VoiceNoteTranscriptions/More Complex - 2014-04-05 -",
+		"/Users/dariusdunlap/Dropbox/Writing/NotesAndQuotes/VoiceNoteTranscriptions/Support Center Questions - 2014-04-05 -",
+		"/Users/dariusdunlap/Dropbox/Writing/NotesAndQuotes/VoiceNoteTranscriptions/Capability - 2014-04-05",
+		"/Users/dariusdunlap/Dropbox/Writing/NotesAndQuotes/VoiceNoteTranscriptions/Game Box & Apple - 2014-04-05",
+		"/Users/dariusdunlap/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dariusdunlap/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/dariusdunlap/SWDevelopment/BootStrap/NewDunlaps.net/index.html",
+		"/Users/dariusdunlap/SWDevelopment/BootStrap/NewDunlaps.net/.htaccess",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/ImapSync-Command",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-records",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-OldPaul",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-les.washburn.txt",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-mogran.mcconnell.txt",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS_IMAPsync-peter.aimonetti.txt",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-sam.ramos.txt",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-stephanie.plane.txt",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-tiffany",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-paul",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-sarah",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-suzanne",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-stacey",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-samuel",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS_IMAPsync-rick",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-rebecca",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-omar",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS_IMAPsync-mikel.townsley",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-ginger",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-jim",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-jonathan.lee",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-lexi.bernard",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-katy",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-laura",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-kenny",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-john",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-amanda.kight",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-alex-dup",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-alec-dup",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-renee",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-diana.silva",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-dburke",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-daniel",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-cynthia.greene",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-bryan",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-donna.miller",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-Dolores",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-Dave",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-Alex",
+		"/Users/dariusdunlap/Dropbox/CurrentProjects/360c/SummitEstate/IMAPsyncLOgs/LOGS-IMAPsync-Alec",
+		"/Users/dariusdunlap/SWDevelopment/FlaskBootstrap/ADN/flask_adnlogin.py",
+		"/Users/dariusdunlap/SWDevelopment/FlaskBootstrap/requirement.txt",
+		"/Users/dariusdunlap/SWDevelopment/FlaskBootstrap/StartupInstuctions.md",
+		"/Users/dariusdunlap/SWDevelopment/FlaskBootstrap/README.md",
+		"/Users/dariusdunlap/SWDevelopment/FlaskBootstrap/app.py",
+		"/Users/dariusdunlap/SWDevelopment/FlaskBootstrap/templates/404.html",
+		"/Users/dariusdunlap/SWDevelopment/FlaskBootstrap/templates/index.html",
+		"/Users/dariusdunlap/SWDevelopment/BootStrap/NewDunlaps.net/contact.html",
+		"/Users/dariusdunlap/SWDevelopment/BootStrap/NewDunlaps.net/contact",
+		"/Users/dariusdunlap/SWDevelopment/BootStrap/BooStrap101Template.html",
+		"/Users/dariusdunlap/Downloads/Secure dariusd@dunlaps.net.duck",
+		"/Users/dariusdunlap/Sites/PieRanch/.htaccess",
+		"/Users/dariusdunlap/Dropbox/Clients/MakingFriends/IntroLetterDrafts/MakingFriendsBasicIntroLetter"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img",
+			"Darius",
+			"donna.miller",
+			"models",
+			"modles",
+			"Super",
+			"Move"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "flaskydarius.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
